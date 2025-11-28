@@ -1,0 +1,196 @@
+<!doctype html>
+<html lang="el">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Self-Cleaning Pet Hair Remover Roller — PetCare</title>
+  <meta name="description" content="Αφαίρεσε τρίχες από καναπέ, χαλιά & ρούχα σε δευτερόλεπτα. Επαναχρησιμοποιούμενο roller για κατοικίδια, χωρίς ανταλλακτικά.">
+  <style>
+    :root{--accent:#1d9bf0;--red:#e63946;--muted:#666}
+    body{font-family:Arial,Helvetica,sans-serif;color:#222;line-height:1.6;margin:0;padding:0;background:#fafafa}
+    .wrap{max-width:980px;margin:24px auto;background:#fff;padding:20px;border-radius:8px;box-shadow:0 6px 18px rgba(0,0,0,0.06)}
+    header{display:flex;justify-content:space-between;align-items:center;gap:12px}
+    header h1{margin:0;font-size:20px}
+    .lang-switch{display:flex;gap:8px}
+    .lang-switch button{padding:8px 12px;border-radius:6px;border:1px solid #ddd;background:#fff;cursor:pointer}
+    .lang-switch button.active{background:var(--accent);color:#fff;border-color:transparent}
+    .grid{display:grid;grid-template-columns:1fr 360px;gap:18px;margin-top:18px}
+    .hero{border-radius:8px;overflow:hidden;border:1px solid #eee}
+    .hero img{width:100%;height:auto;display:block}
+    .price{color:var(--red);font-weight:700;font-size:22px;margin:8px 0}
+    .features{list-style:disc;margin-left:20px}
+    .specs{background:#f8f8f8;padding:10px;border-radius:6px;margin-top:12px}
+    .cta{display:block;text-align:center;background:var(--accent);color:#fff;padding:12px 14px;border-radius:8px;text-decoration:none;margin-top:10px}
+    .small{font-size:13px;color:var(--muted)}
+    footer{margin-top:18px;font-size:13px;color:var(--muted)}
+    .hidden{display:none}
+    pre{background:#f4f4f4;padding:10px;border-radius:6px;overflow:auto}
+    @media(max-width:900px){.grid{grid-template-columns:1fr;}.hero img{height:auto}}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <h1>PetCare — Self-Cleaning Pet Hair Remover Roller</h1>
+      <div class="lang-switch">
+        <button id="btn-el" class="active">Ελληνικά</button>
+        <button id="btn-en">English</button>
+      </div>
+    </header>
+
+    <!-- GREEK CONTENT -->
+    <main id="content-el">
+      <div class="grid">
+        <div>
+          <div class="hero">
+            <img src="hero_white.jpg" alt="Self-Cleaning Roller on sofa (hero)" />
+          </div>
+
+          <h2>Αφαίρεσε τρίχες από καναπέ, χαλιά & ρούχα σε δευτερόλεπτα — χωρίς ανταλλακτικά!</h2>
+          <p class="price">Τιμή: €14.99</p>
+
+          <h3>Τι κάνει</h3>
+          <p>Το <strong>Self-Cleaning Roller</strong> διαθέτει μηχανισμό διπλής περιστροφής που συλλέγει τις τρίχες σε εσωτερικό δοχείο. Τίποτα δεν κολλάει και δεν χρειάζονται ανταλλακτικά.</p>
+
+          <h3>Οφέλη</h3>
+          <ul class="features">
+            <li>Αφαιρεί τρίχες από καναπέδες, χαλιά, ρούχα, αυτοκίνητο</li>
+            <li>Χωρίς ανταλλακτικά — οικονομικό</li>
+            <li>Επαναχρησιμοποιούμενο & οικολογικό</li>
+            <li>Χωρίς μπαταρίες</li>
+          </ul>
+
+          <div class="specs">
+            <strong>Προδιαγραφές:</strong>
+            <p>Υλικό: ABS + Nylon • Διαστάσεις: 19×7.5×12 cm • Βάρος: ~190g</p>
+          </div>
+
+          <h3>Συχνές ερωτήσεις</h3>
+          <p><strong>Πιάνει κοντές τρίχες;</strong> Ναι, λειτουργεί για όλους τους τύπους τριχών.</p>
+          <p><strong>Πώς καθαρίζει;</strong> Ανοίγετε το καπάκι και αδειάζετε το δοχείο.</p>
+
+          <h3>Οδηγίες για φωτογραφίες / media</h3>
+          <p class="small">Ανέβασε: hero_white.jpg, before_after.jpg, closeup_head.jpg, empty_container.jpg, studio_shot.jpg</p>
+        </div>
+
+        <aside>
+          <div style="padding:12px;border:1px solid #eee;border-radius:8px">
+            <p class="small">Vendor: PetCareTools</p>
+            <p class="price">€14.99</p>
+            <a class="cta" href="#" onclick="alert('Demo: σύνδεση στο cart placeholder');return false;">Προσθήκη στο καλάθι</a>
+
+            <div style="margin-top:12px">
+              <p class="small"><strong>Shipping:</strong> Ελλάδα 4–8 εργάσιμες • ΕΕ 3–6 εργάσιμες</p>
+              <p class="small"><strong>Return:</strong> 14 ημέρες</p>
+            </div>
+          </div>
+
+          <div style="margin-top:12px;padding:12px;border-radius:8px;background:#f6f9ff;border:1px solid #e8f0ff">
+            <strong>TikTok scripts</strong>
+            <ul class="small">
+              <li>Before/After — δείξε κανάπε γεμάτο τρίχες → roll → zoom δοχείο</li>
+              <li>Compare — sticky roller vs self-cleaning</li>
+              <li>Satisfying close-up → άδειασμα</li>
+            </ul>
+          </div>
+        </aside>
+      </div>
+    </main>
+
+    <!-- ENGLISH CONTENT -->
+    <main id="content-en" class="hidden">
+      <div class="grid">
+        <div>
+          <div class="hero">
+            <img src="hero_white.jpg" alt="Self-Cleaning Roller on sofa (hero)" />
+          </div>
+
+          <h2>Remove pet hair from sofas, carpets & clothes in seconds — no refills needed!</h2>
+          <p class="price">Suggested price: €14.99</p>
+
+          <h3>What it does</h3>
+          <p>The <strong>Self-Cleaning Roller</strong> uses a dual-rolling mechanism that collects hair inside a built-in chamber. No sticky refills required.</p>
+
+          <h3>Benefits</h3>
+          <ul class="features">
+            <li>Removes hair from sofas, carpets, clothes, car seats</li>
+            <li>No refills — cost-effective</li>
+            <li>Reusable & eco-friendly</li>
+            <li>No batteries</li>
+          </ul>
+
+          <div class="specs">
+            <strong>Specs:</strong>
+            <p>Material: ABS + Nylon • Size: 19×7.5×12 cm • Weight: ~190g</p>
+          </div>
+
+          <h3>FAQ</h3>
+          <p><strong>Does it pick up short hair?</strong> Yes — designed for all hair types.</p>
+          <p><strong>How do I empty it?</strong> Open the lid and dump the collected hair.</p>
+
+          <h3>Images to upload</h3>
+          <p class="small">Upload: hero_white.jpg, before_after.jpg, closeup_head.jpg, empty_container.jpg, studio_shot.jpg</p>
+        </div>
+
+        <aside>
+          <div style="padding:12px;border:1px solid #eee;border-radius:8px">
+            <p class="small">Vendor: PetCareTools</p>
+            <p class="price">€14.99</p>
+            <a class="cta" href="#" onclick="alert('Demo: add-to-cart placeholder');return false;">Add to cart</a>
+
+            <div style="margin-top:12px">
+              <p class="small"><strong>Shipping:</strong> Greece 4–8 business days • EU 3–6 business days</p>
+              <p class="small"><strong>Return:</strong> 14 days</p>
+            </div>
+          </div>
+
+          <div style="margin-top:12px;padding:12px;border-radius:8px;background:#f6f9ff;border:1px solid #e8f0ff">
+            <strong>TikTok scripts</strong>
+            <ul class="small">
+              <li>Before/After — show couch full of hair → roll → zoom container</li>
+              <li>Compare — sticky roller vs self-cleaning</li>
+              <li>Satisfying close-up → emptying</li>
+            </ul>
+          </div>
+        </aside>
+      </div>
+    </main>
+
+    <footer>
+      <p class="small">Αυτό είναι ένα demo storefront. Για να ενεργοποιήσεις παραγγελίες, σύνδεσε payment gateway και dropshipping app (DSers / CJ Dropshipping).</p>
+      <p class="small">Pro tips: Use hero_white.jpg as main hero and before_after.jpg as split image for max conversion.</p>
+    </footer>
+
+    <hr style="margin:16px 0">
+
+    <section>
+      <h3>Quick hosting instructions</h3>
+      <ol>
+        <li><strong>Local:</strong> Αποθήκευσε ως <code>index.html</code> μαζί με τις εικόνες και άνοιξέ το με browser.</li>
+        <li><strong>GitHub Pages:</strong> Δημιούργησε repo → ανέβασε αυτό το index.html + εικόνες → Settings → Pages → publish from main branch.</li>
+        <li><strong>Netlify/Vercel:</strong> Drag & drop του φακέλου → publish (free).</li>
+        <li><strong>Wix:</strong> Ανέβασε εικόνες και κάνε copy/paste το HTML στο product description ή χρησιμοποίησε το ως content source.</li>
+      </ol>
+
+      <h4>Need me to do it?</h4>
+      <p class="small">Μπορώ να σε καθοδηγήσω βήμα-βήμα ώστε να το ανεβάσουμε μαζί (GitHub Pages ή Netlify) — πες ποιον τρόπο θέλεις και το κάνουμε άμεσα.</p>
+    </section>
+  </div>
+
+<script>
+  // simple language toggle
+  const el = document.getElementById('content-el');
+  const en = document.getElementById('content-en');
+  document.getElementById('btn-el').addEventListener('click', () => {
+    el.classList.remove('hidden'); en.classList.add('hidden');
+    document.getElementById('btn-el').classList.add('active');
+    document.getElementById('btn-en').classList.remove('active');
+  });
+  document.getElementById('btn-en').addEventListener('click', () => {
+    en.classList.remove('hidden'); el.classList.add('hidden');
+    document.getElementById('btn-en').classList.add('active');
+    document.getElementById('btn-el').classList.remove('active');
+  });
+</script>
+</body>
+</html>
